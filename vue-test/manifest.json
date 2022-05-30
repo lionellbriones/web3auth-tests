@@ -1,0 +1,7 @@
+[
+    {
+        "name": "installation",
+        "route": "./package.json",
+        "steps": "5-6"
+    }
+]
